@@ -1,0 +1,13 @@
+/* src/components/LandingPage.css */
+.landing-page {
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+  }
